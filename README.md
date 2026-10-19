@@ -63,8 +63,6 @@ I'm currently expanding my skills in **Cloud Computing, DevOps, and DevSecOps**,
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saadellody&show_icons=true&theme=dark" height="175"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadellody&theme=dark" height="175"/>
@@ -72,10 +70,6 @@ I'm currently expanding my skills in **Cloud Computing, DevOps, and DevSecOps**,
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadellody&layout=compact&theme=dark" height="175"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadellody&layout=compact&theme=dark" height="175" />
 </p>
 
 ---
